@@ -1,0 +1,4 @@
+https://make.powerapps.com/environments/Default-ebc6211f-6833-4625-9812-4df65ba68ac5/customconnectors  -main page to create a custom connector
+
+https://gorest.co.in/    - open api main page
+https://gorest.co.in/my-account/access-tokens   - access token
